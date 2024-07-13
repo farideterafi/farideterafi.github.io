@@ -1,0 +1,35 @@
+body {
+     background-color:black;
+    
+}
+h2   {
+     color:red;
+     font-family:italic;
+     text-align:center;
+}
+p    {
+     color:white;
+     text-align:left;
+}
+div  {
+     border:2px solid white;
+     width:800px;
+     margin:auto;
+     
+     
+}
+span {
+     border:3px solid yellow;
+     border-radius:10px;
+     background-color:red;
+     color:white;
+}
+table,th,td{
+     border:3px solid white;
+     border-collapse:collapse;
+     color:white;
+     width:100%;
+     text-align:center;
+     text-size:100px;
+     
+}
